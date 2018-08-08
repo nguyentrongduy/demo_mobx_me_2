@@ -1,0 +1,55 @@
+.login-box {
+  width: 360px;
+  margin: 15% auto;
+}
+.login-logo {
+  font-size: 32px;
+  text-align: center;
+}
+.login-box-body {
+  margin-top: 32px;
+}
+.login-wsid-title,
+.login-wsid-password,
+.login-message-title{
+  line-height: 36px;
+}
+
+.login-message-title {
+  line-height: unset;
+}
+
+.aria-btn-login {
+  text-align: right;
+}
+.login-box .remember-label {
+  font-weight: normal;
+  cursor: pointer;
+}
+
+/*menu*/
+.menu-body {
+  margin: 10% auto;
+    padding-top: 20px;
+    border: 1px solid #9c9c9c;
+}
+.menu-item {
+  text-align: center;
+    height: 120px;
+    line-height: 120px;
+}
+.menu-items {
+  margin-top: 40px;
+}
+.menu-header,
+.menu-header-center {
+    height: 70px;
+}
+.menu-header-right {
+    line-height: 70px;
+}
+.menu-header-right a {
+    float: right;
+    padding: 0 50px;
+    font-size: 14px;
+}
